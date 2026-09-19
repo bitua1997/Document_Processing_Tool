@@ -1,0 +1,6 @@
+Python is a programming language.
+
+Python is widely used in artificial intelligence
+and machine learning.
+
+RAG stands for Retrieval Augmented Generation.
